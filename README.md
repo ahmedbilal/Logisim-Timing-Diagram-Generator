@@ -2,6 +2,7 @@
 
 **Prerequisites**
 1. Python 3
+1. Download [ltdg.py](https://github.com/ahmedbilal/Logisim-Timing-Diagram-Generator/raw/master/ltdg.py)
 
 **Procedure**
 1. Log your circuit simulation.
