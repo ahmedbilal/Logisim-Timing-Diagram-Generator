@@ -1,9 +1,9 @@
 # Logisim-Timing-Diagram-Generator
 
-** Prerequisites **
+**Prerequisites**
 1. Python 3
 
-
+**Procedure**
 1. Log your circuit simulation.
 1. Move your file to the same folder where ltdg.py is located.
 1. Open terminal/command prompt
