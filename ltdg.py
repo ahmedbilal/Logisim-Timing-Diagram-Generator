@@ -1,3 +1,6 @@
+# Author: Ahmad Bilal Khalid (ABK)
+# This program is provided for free of cost and have no guarrentee of any kind.
+
 def draw(labels, values):
     for l in range(len(labels)):
         print(labels[l])
